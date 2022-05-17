@@ -34,7 +34,7 @@ h1 {
     text-underline-offset: 0.05em;
 }
 
-small {
+small, cite {
     font-size: 0.65em;
 }
 /* 
@@ -84,7 +84,7 @@ em {
 }
 
 blockquote, blockquote p {
-    font-family: 'Mansalva', cursive;
+    /* font-family: 'Mansalva', cursive; */
     display: inline-block;
     width: auto;
     align-self: center;
