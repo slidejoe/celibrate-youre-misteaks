@@ -12,6 +12,16 @@
             "label": "serve",
             "type": "shell",
             "command": "npx @marp-team/marp-cli@latest -s ./ --theme theme/theme.css --bespoke.transition --html"
-        }
+        },
+        {
+            "label": "export pdf",
+            "type": "shell",
+            "command": "npx @marp-team/marp-cli@latest index.md --theme theme/theme.css --bespoke.transition --html --pdf --allow-local-files"
+        },
+        // {
+        //     "label": "export pptx",
+        //     "type": "shell",
+        //     "command": "npx @marp-team/marp-cli@latest index.md --theme theme/theme.css --bespoke.transition --html --pptx --allow-local-files"
+        // }
     ]
 }

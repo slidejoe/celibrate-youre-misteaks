@@ -103,7 +103,7 @@ _class: lead
 #### The *remedy*
 
 * <i>check_box</i> Sergeant Brown came forward with his knowledge
-* <i>check_box</i> Fingerprint was eventually matched to *Kermit Bryson*,* <!-- Didn't come forward with this until 1 year later -->
+* <i>check_box</i> Fingerprint was eventually matched to *Kermit Bryson*, <!-- Didn't come forward with this until 1 year later -->
     - <i>check_box</i> *connected* to the victim
     - <i>check_box</i> *history* of crime
     - <i>check_box</i> *red hair*
