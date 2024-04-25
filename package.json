@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  },
+  "scripts": {
+    "dev": "npx marp -s ./ --theme theme.css --bespoke.transition --html",
+    "build": "npx marp index.md --theme theme.css --bespoke.transition --html"
+  }
+}

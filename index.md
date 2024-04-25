@@ -2,7 +2,7 @@
 marp: true
 theme: misteaks
 header: Celibrate you're misteaks
-transition: fade 3s
+transition: fade 0.3s
 backgroundImage: url('images/linedpaper.png')
 backgroundRepeat: repeat
 backgroundSize: auto
