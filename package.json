@@ -3,7 +3,15 @@
     "@marp-team/marp-cli": "^3.4.0"
   },
   "scripts": {
-    "dev": "npx marp -s ./ --theme theme.css --bespoke.transition --html",
-    "build": "npx marp index.md --theme theme.css --bespoke.transition --html"
+    "dev": "npx marp -s ./",
+    "build": "npx marp index.md"
+  },
+  "marp": {
+    "theme": "./theme/theme.css",
+    "bespoke": {
+      "transition": true
+    },
+    "html": true,
+    "title": "Celibrate you're misteaks - by Joe Glombek"
   }
 }
