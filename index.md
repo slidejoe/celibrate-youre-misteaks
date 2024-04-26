@@ -14,10 +14,19 @@ footer: 'Joe Glombek'
 _header: ''
 _backgroundImage:
 _class: lead
+_footer: '[Content warning: discussion of murder]'
 --->
 
 # Celibrate you're misteaks
+Joe Glombek
 
+---
+
+> ## *Everyone* makes mistakes.
+
+<!-- ![Rich](/images/rich.svg) -->
+
+<!--- We've heard it time and again. But there's always that nagging voice inside our heads telling us to hide it away somewhere. -->
 ---
 
 <!--
@@ -25,34 +34,18 @@ _header: ''
 _footer: ''
 --->
 
-![bg right Joe](images/me.jpg)
+![bg right:40% Joe](images/me.jpg)
 
 ## <small>Hello, my name is</small> Joe *Glombek*
-*.NET* Web Developer at Bump
+*.NET* Web Developer at Bump Digital
 *Umbraco MVP*
 
 <br />
 <br />
 
 - <i>link</i> www.**joe.gl**
-- <i>![Twitter](images/Twitter%20social%20icons%20-%20circle%20-%20blue.svg)</i> @JoeGlombek
-- <i>logo_dev</i> @JoeGlombek
+- <i>![Mastodon](images/mastodon.svg)</i> @Joe@UmbracoCommunity.Social
 
----
-
-<!--
-_header: ''
-_backgroundImage:
-_class: lead
---->
-
-# Celibrate you're misteaks
-
----
-
-> ## *Everyone* makes mistakes.
-
-<!--- We've heard it time and again. But there's always that nagging voice inside our heads telling us to hide it away somewhere. -->
 ---
 
 ## Why do we *hide* our mistakes?
@@ -70,34 +63,49 @@ _class: lead
 
 ## The cost of *hiding mistakes*
 
----
-
-### The wrongful conviction of *Adam Braseel*
-
 ***Content warning:* discussion of murder**
 
-* Malcolm Burrows was murdered outside his home in Tennessee. Witnesses described a man with red hair, driving away in a gold car.
-* <blockquote>Does anybody know anybody with red hair?</blockquote>
-* Adam had red hair, and it turns out he'd been away from home driving his mum's gold car.
-* With no physical evidence, only witness identification, he was convicted and jailed for life <!--- no motive, didn't know the victim -->
+---
+
+### The murder of *Malcolm Burrows*
+
+
+* Malcolm Burrows was murdered outside his home in Tennessee.
+* Witnesses described a man with red hair, driving away in a gold car.
 
 <small>[Criminal podcast #133: *Red Hair, Gold Car*](https://thisiscriminal.com/episode-133-red-hair-gold-car/)</small>
 
 ---
 
+### The wrongful conviction of *Adam Braseel*
+
+<blockquote>Does anybody know anybody with red hair?</blockquote>
+
+* Adam had red hair, and it turns out he'd been driving his mum's gold car nearby that day.
+* With no physical evidence, only witness identification, he was convicted and jailed for life <!--- no motive, didn't know the victim -->
+
+![bg right:45% Mugshot of Adam Braseel](images/braseel-mugshot.jpg)
+
+---
+
 #### The *mistakes*
 
-* <i>disabled_by_default</i> Wrong "Sergeant Brown" <!-- One Sergeant Brown found the body, while the other watched the house after the crime. The latter spoke at trial -->
-* <i>disabled_by_default</i> The Sergeant Brown who found the body, thought it was odd at the time, that he wasn't asked to speak at the trial
-    - <i>disabled_by_default</i> Ambiguity over whether there was a robbery. Sergeant Brown could have clarified the wallet *was* on the body
-* <i>disabled_by_default</i> Photo line-up
-    - <i>disabled_by_default</i> 8 men, not all of them had red hair
-    - <i>disabled_by_default</i> suggestion may have been in place too
+* <i>disabled_by_default</i> Confusion over two Sergeant Browns <!-- One Sergeant Brown found the body, while the other watched the house after the crime. The latter spoke at trial -->
+  - <i>disabled_by_default</i> The Sergeant Brown who found the body, thought it was odd at the time, that he wasn't asked to speak at the trial
+  - <i>disabled_by_default</i> Ambiguity over whether there was a robbery <!-- Sergeant Brown could have clarified the wallet *was* on the body -->
 * <i>disabled_by_default</i> Records lost
 * <i>disabled_by_default</i> Fingerprint didn't match Adam
 
-<!-- Malcolm Burrows -->
+---
 
+- <i>disabled_by_default</i> Photo line-up
+
+![h:500px Photo lineup used to convict Adam Braseel](images/braseel-lineup.webp)
+
+<!--
+    8 men, not all of matching the description - not even all had red hair
+    suggestion may have been in place too
+    -->
 ---
 
 #### The *remedy*
@@ -142,7 +150,7 @@ As soon as there's time for a review, one is conducted. This review process is a
 A lapse in judgement when flying is a matter of life and death, so it's fully accepted that mistakes should be identified early and often so that they can be rectified as soon as possible.
 -->
 
-<small>[@CliffordAgius](https://twitter.com/CliffordAgius) talk: Pilot Critical Decision Making skills @ [Build Stuff Conf](https://www.youtube.com/watch?v=co8AAYVWcgI)</small>
+<small>[Clifford Agius'](https://www.cliffordagius.co.uk/) talk: Pilot Critical Decision Making skills @ [Build Stuff Conf](https://www.youtube.com/watch?v=co8AAYVWcgI)</small>
 
 <!-- if it's good enough for pilots, it's probably good enough for us -->
 ---
@@ -192,6 +200,29 @@ A lapse in judgement when flying is a matter of life and death, so it's fully ac
 * <i>history</i> Commit history <small>["Why are you being such a git about it?" talk](https://joe.gl/ombek/talks/ddd-21/) or [blog](https://joe.gl/ombek/blog/such-a-git)</small><!-- Don't overwrite your git history-->
 * <i>public</i> Code in public
 * <i>event_repeat</i> As much as possible
+* <i>event_available</i> Right now! *#MyMisteak*
+  
+---
+
+<!--
+_header: '![h:75px opacity:.4 Doodled pictures of mugshots, a plane, a tree and a car](images/doodles.svg)'
+_footer: '![h:75px opacity:.4 Doodled pictures of mugshots, a plane, a tree and a car](images/doodles.svg)'
+--->
+
+![bg right:40% Joe in a unicorn onesie, grinning cheesily](images/Unicorn.jpg)
+
+## *Thank you!*
+**Joe *Glombek***
+
+<br />
+
+- <i>link</i> www.**joe.gl**
+- <i>slideshow</i> slides.joe.gl/celibrate-youre-misteaks
+- <i>![Mastodon](images/mastodon.svg)</i> @Joe@UmbracoCommunity.Social
+<br />
+- <i>tag</i> *MyMisteak*
+
+
 
 <!--
 We've heard it time and again. But there's always that nagging voice inside our heads telling us to hide it away somewhere. But why be ashamed?! Besides, this can lead to more mistakes in the future. We'll take a look at some of my mistakes and even look at some extreme cases where mistakes can cost lives.
