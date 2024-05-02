@@ -24,8 +24,6 @@ Joe Glombek
 
 > ## *Everyone* makes mistakes.
 
-<!-- ![Rich](/images/rich.svg) -->
-
 <!--- We've heard it time and again. But there's always that nagging voice inside our heads telling us to hide it away somewhere. -->
 ---
 
@@ -50,16 +48,21 @@ _footer: ''
 
 ## Why do we *hide* our mistakes?
 
-* <i>sentiment_very_dissatisfied</i> Embarrassment <!--I can do better attitude-->
+* <i>sentiment_very_dissatisfied</i> Embarrassment 
 * <i>psychology_alt</i> Imposter syndrome
-* <i>emoji_events</i> We'd rather talk about *successes* than failures <!-- It's human nature! -->
+* <i>emoji_events</i> We'd rather talk about *successes* than failures
 
     > the human inclination is to put our heads in the sand once we’ve embarked on our path [...] if we’ve gone off track, we grit our teeth, continue and hope for the best
 
 <cite>[The learning opportunities hiding in our failures - BBC](https://www.bbc.com/worklife/article/20200616-the-learning-opportunities-hiding-in-our-failures)</cite>
 
+<!--
+Embarrassment: I can do better attitude
+Imposter syndrome
+We'd rather talk about *successes* than failures - It's human nature!
+-->
+
 ---
-<!-- ![bg right 50%](images/RedHair_Art-1024x1024.png) -->
 
 ## The cost of *hiding mistakes*
 
@@ -72,8 +75,6 @@ _footer: ''
 
 * Malcolm Burrows was murdered outside his home in Tennessee.
 * Witnesses described a man with red hair, driving away in a gold car.
-
-<small>[Criminal podcast #133: *Red Hair, Gold Car*](https://thisiscriminal.com/episode-133-red-hair-gold-car/)</small>
 
 ---
 
@@ -111,25 +112,29 @@ _footer: ''
 #### The *remedy*
 
 * <i>check_box</i> Sergeant Brown came forward with his knowledge
-* <i>check_box</i> Fingerprint was eventually matched to *Kermit Bryson*, <!-- Didn't come forward with this until 1 year later -->
+* <i>check_box</i> Fingerprint was eventually matched to *Kermit Bryson*,
     - <i>check_box</i> *connected* to the victim
     - <i>check_box</i> *history* of crime
     - <i>check_box</i> *red hair*
     - <i>check_box</i> girlfriend with a *gold car*
     - <i>check_box</i> *confessed* to a friend
 
-<!-- Malcolm Burrows -->
+<!-- Didn't come forward with this until 1 year later -->
+
 ---
 
 > there are mistakes that are made and I want to do everything I can to keep these types of mistakes from ever happening again, anywhere. Especially in my district and in the state of Tennessee.
 <cite>- Judge Justin Angel, Tennessee</cite>
 
+<small>See also: [Criminal podcast #133: *Red Hair, Gold Car*](https://thisiscriminal.com/episode-133-red-hair-gold-car/)</small>
+
 <!--
 This was by no means an ideal outcome, but Adam was released from prison, and lessons *were* learn't from these mistakes.
 
 Judge Angel and others involved are on the look-out for similar situations
-People listening to the Criminal Podcast and other media coverage have learnt of these issues
 Greater awareness of the issues with photo lineups
+People listening to the Criminal Podcast and other media coverage have learnt of these issues
+
 -->
 
 ---
@@ -195,13 +200,17 @@ A lapse in judgement when flying is a matter of life and death, so it's fully ac
 
 ## *How* and *when*?
 
-* <i>soap</i> Project washups <!-- Project or sprint washups or retrospectives - time specifically for discussing what went well and what didn't go so well in a project -->
-* <i>handshake</i> One-to-ones <!-- Talk to your mentor or boss about your progress - mistakes are progress too if you're learning from them! -->
-* <i>history</i> Commit history <small>["Why are you being such a git about it?" talk](https://joe.gl/ombek/talks/ddd-21/) or [blog](https://joe.gl/ombek/blog/such-a-git)</small><!-- Don't overwrite your git history-->
-* <i>public</i> Code in public
-* <i>event_repeat</i> As much as possible
+* <i>soap</i> Project washups <!-- Project or sprint washups or retrospectives - time specifically for discussing what went well and what didn't go so well in a project. Example: Webflow -->
+* <i>handshake</i> One-to-ones <!-- One-to-ones: Talk to your mentor or boss about your progress - mistakes are progress too if you're learning from them! Example: "raise when you're falling behind"-->
+* <i>history</i> Commit history <small>["Why are you being such a git about it?" talk](https://joe.gl/ombek/talks/ddd-21/) or [blog](https://joe.gl/ombek/blog/such-a-git)</small><!-- Commit history: Don't overwrite your git history! -->
+* <i>public</i> Code in public <!-- Code in public: Use PRs internally, work on open source projects -->
+* <i>event_repeat</i> As much as possible <!-- And when? As much as possible, even right now. (3s rule) -->
 * <i>event_available</i> Right now! *#MyMisteak*
-  
+
+---
+
+<iframe src="https://beige.party/@YadyO/112371862277739154/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
 ---
 
 <!--
